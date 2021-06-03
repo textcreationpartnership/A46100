@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Impartial account of the late discovery of the persons taken with fire-balls in Southwark and the circumstances attending what materially happened during their being in custody and confession before the justice of peace, with many other matters relating to that dreadful occasion.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46100</idno><idno type="EEBO-CITATION">15586443</idno>
+  <idno type="VID">103982</idno>
+  <idno type="EEBO-PROQUEST">2240910907</idno>
+  
+            <idno type="STC">Wing I70A</idno>
+            <idno type="STC">ESTC R36011</idno>
+            <idno type="OCLC">15586443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1150:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Impartial account of the late discovery of the persons taken with fire-balls in Southwark and the circumstances attending what materially happened during their being in custody and confession before the justice of peace, with many other matters relating to that dreadful occasion.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained and creased, with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sensationalism in journalism --  England.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="geographic_name">Southwark (London, England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:103982:1"/>
+            <head>AN IMPARTIAL ACCOUNT OF THE <hi>Late Discovery of the Persons</hi> TAKEN WITH FIRE-BALLS, IN SOUTHWARK.</head>
+            <head type="sub">AND THE Circumstances attending what materially happened during their being in Custody, and Confession before the Justice of Peace, with many other Matters relating to that dreadful Occasion.</head>
+            <p>STrange have been the Projects and Contrivances of malicious and ill-meaning People, to study such ways and things as may contribute to the Ruine of such as little suspect the Treachery that they may build or ground their Advantage upon their Loss; And certain it is, if we may believe the many credible Reports, there are a sort of Villainous, Persons, who, according to the Scripture Phrase, <hi>Sell themselves to do mischief.</hi> But in this Case, few, are so inexcusable, as those who undertake or resolve upon so desperate a Wickedness as the Firing of Houses; which we have the Charity to imagine rather proceeds from a desire of private Gain, by way of Plunder, or Robbery, during the Consternation, Harry and Confusion the dismal Com<g ref="char:EOLhyphen"/>bustion and Conflagration occasion then from any Publick Design. However, so great a Wick<g ref="char:EOLhyphen"/>edness is not thereby extenuated, for the raging Element of Fire getting Scope, makes no distinguishment between Poor and Rich; nor is it in the power of the Incendiaries to limit or confine its Progress, as many sad Experiences have manifested to the World. But, not to be tedious in Commenting upon so dreadful a Business, seeing frequent Experiences have but too evidently made it known by sad Effects to the City of <hi>London,</hi> and the ad<g ref="char:EOLhyphen"/>jacent Part, I proceed to that which occasioned this Preamble, which, to be brief, is the following Relation.</p>
+            <div type="report_proper">
+               <p>On the 27th of this Instant <hi>November,</hi> 1688. a <hi>German</hi> Boy of be<g ref="char:EOLhyphen"/>tween 14 and 15 years of age, being discovered to have some Balls about him of a very dark blewish colour, or between blew and black, of the bigness of large Wash-Balls, which he had exposed at unawares to
+<pb n="2" facs="tcp:103982:2"/> some persons, who, as it fell out, were well acquainted with their forcible Effects; thereupon it was thought fit to secure him, whereby to oblige him to give a further Account of himself, and how he came by those mis<g ref="char:EOLhyphen"/>chievous Implements. But giving no satisfactory Answers, and making many frivolous Pretences, it was thought fit, for his stricter Ex<g ref="char:EOLhyphen"/>amination, he might be carried before a Publick Magistrate; which be<g ref="char:EOLhyphen"/>ing concluded on on all hands to be in the Custody of a Constable, was carried to a Justice of Peace near the place where he was Apprehended; but he being out of the way, or detained by other business, the Officer who had him in Custody brought him to Mr Justice <hi>Evans</hi> living in the <hi>Bridgehouse Yard</hi> in the Parish of <hi>St. Olaves Southwark:</hi> But the Justice being absent from home, and at an adjacent Tavern, <hi>viz.</hi> the <hi>Bull<g ref="char:EOLhyphen"/>head</hi> in <hi>Southwark,</hi> the Officer carried the Prisoner thither, who up<g ref="char:EOLhyphen"/>on Examination, confessed he had those Balls, which, upon Tryal, appeared to be capable of Firing any Combustible Matter from a <hi>French</hi> Man, who pretended himself to be an Engineer: Upon which an Order was issued to seize the principal Person, who accordingly, with some unwillingness, was brought before the said Justice, endea<g ref="char:EOLhyphen"/>vouring by the way to injure those that had him in Custody: And being before Mr. Justice <hi>Evans,</hi> he confessed he had given those Fire-Balls to the Boy, as being useless and cumbersom to him, but that they were only the Remains of some late publick Fireworks, <hi>&amp;c.</hi> Upon which, and further Consideration, the Justice thought fit to discharge the Pri<g ref="char:EOLhyphen"/>soners; and to pacifie those that were gathered about the Door, to ex<g ref="char:EOLhyphen"/>pect the issue of this important Affair, several pieces of the Balls so taken were distributed, which being tryed as well by the Writer of this Narration, as by divers persons more qualified in the understanding of these Affairs, appear to be effectually for the purpose of Firing any Com<g ref="char:EOLhyphen"/>bustible Matter, <hi>&amp;c.</hi> by their as well flaming on every side as upward, and burning downward with far more violence than white Powder.</p>
+               <p>We since hear, and take it upon credible Report, That on the 28th Instant, another Person was surprized with the like mischievous Compo<g ref="char:EOLhyphen"/>sition, and that he is in safe Custody; but to what this surprizing Matters tend, we are yet to learn.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. C.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
